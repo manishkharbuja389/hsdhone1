@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5fccc8a.css",
-    "main.js": "/static/js/main.8e2aad29.js",
-    "static/media/home-banner-image.png": "/static/media/home-banner-image.a41849b23e5c36d66717.png",
-    "static/media/about-background-image.png": "/static/media/about-background-image.d0e45280dd69dec26ee6.png",
-    "static/media/Logo.jpg": "/static/media/Logo.4719e13ea73c5e46e9b5.jpg",
-    "static/media/home-banner-background.png": "/static/media/home-banner-background.585600da7ff85661555e.png",
-    "static/media/Logo.svg": "/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
-    "index.html": "/index.html",
-    "main.a5fccc8a.css.map": "/static/css/main.a5fccc8a.css.map",
-    "main.8e2aad29.js.map": "/static/js/main.8e2aad29.js.map"
+    "main.css": "/hsdhone1/static/css/main.a5fccc8a.css",
+    "main.js": "/hsdhone1/static/js/main.43d60db0.js",
+    "static/media/home-banner-image.png": "/hsdhone1/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/hsdhone1/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/Logo.jpg": "/hsdhone1/static/media/Logo.4719e13ea73c5e46e9b5.jpg",
+    "static/media/home-banner-background.png": "/hsdhone1/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/hsdhone1/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "index.html": "/hsdhone1/index.html",
+    "main.a5fccc8a.css.map": "/hsdhone1/static/css/main.a5fccc8a.css.map",
+    "main.43d60db0.js.map": "/hsdhone1/static/js/main.43d60db0.js.map"
   },
   "entrypoints": [
     "static/css/main.a5fccc8a.css",
-    "static/js/main.8e2aad29.js"
+    "static/js/main.43d60db0.js"
   ]
 }
